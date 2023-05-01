@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react_test/static/css/main.b146d659.css",
-    "main.js": "/react_test/static/js/main.22bea701.js",
+    "main.css": "/react_test/static/css/main.a3c2c011.css",
+    "main.js": "/react_test/static/js/main.342c3e2f.js",
     "static/media/photo_2023-03-15_09-49-51.jpg": "/react_test/static/media/photo_2023-03-15_09-49-51.5b819c647269b8eb016a.jpg",
     "static/media/photo_2022-08-11_21-21-17.jpg": "/react_test/static/media/photo_2022-08-11_21-21-17.fb0ac104acbae440e403.jpg",
     "static/media/icon.jpg": "/react_test/static/media/icon.a2b210c4166981229c2f.jpg",
     "static/media/photo_2022-09-03_07-51-43.jpg": "/react_test/static/media/photo_2022-09-03_07-51-43.81fea7628b4c5d5dea7c.jpg",
     "static/media/joga-fon.jpg": "/react_test/static/media/joga-fon.6b571468d51df385bf69.jpg",
     "index.html": "/react_test/index.html",
-    "main.b146d659.css.map": "/react_test/static/css/main.b146d659.css.map",
-    "main.22bea701.js.map": "/react_test/static/js/main.22bea701.js.map"
+    "main.a3c2c011.css.map": "/react_test/static/css/main.a3c2c011.css.map",
+    "main.342c3e2f.js.map": "/react_test/static/js/main.342c3e2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b146d659.css",
-    "static/js/main.22bea701.js"
+    "static/css/main.a3c2c011.css",
+    "static/js/main.342c3e2f.js"
   ]
 }
