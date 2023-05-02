@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/react_test/static/css/main.ebc0a0bd.css",
-    "main.js": "/react_test/static/js/main.45ca0033.js",
+    "main.css": "/react_test/static/css/main.42535ae5.css",
+    "main.js": "/react_test/static/js/main.f6c48c21.js",
+    "static/media/yoga-light_drb.gif": "/react_test/static/media/yoga-light_drb.9165c248038e97ecba54.gif",
     "static/media/photo_2023-03-15_09-49-51.jpg": "/react_test/static/media/photo_2023-03-15_09-49-51.5b819c647269b8eb016a.jpg",
     "static/media/1675302863_gas-kvas-com-p-yoga-art-risunok-49.jpg": "/react_test/static/media/1675302863_gas-kvas-com-p-yoga-art-risunok-49.4d2033510647b4b61aac.jpg",
     "static/media/photo_2022-08-11_21-21-17.jpg": "/react_test/static/media/photo_2022-08-11_21-21-17.fb0ac104acbae440e403.jpg",
@@ -9,11 +10,11 @@
     "static/media/photo_2022-09-03_07-51-43.jpg": "/react_test/static/media/photo_2022-09-03_07-51-43.81fea7628b4c5d5dea7c.jpg",
     "static/media/joga-fon.jpg": "/react_test/static/media/joga-fon.6b571468d51df385bf69.jpg",
     "index.html": "/react_test/index.html",
-    "main.ebc0a0bd.css.map": "/react_test/static/css/main.ebc0a0bd.css.map",
-    "main.45ca0033.js.map": "/react_test/static/js/main.45ca0033.js.map"
+    "main.42535ae5.css.map": "/react_test/static/css/main.42535ae5.css.map",
+    "main.f6c48c21.js.map": "/react_test/static/js/main.f6c48c21.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebc0a0bd.css",
-    "static/js/main.45ca0033.js"
+    "static/css/main.42535ae5.css",
+    "static/js/main.f6c48c21.js"
   ]
 }
