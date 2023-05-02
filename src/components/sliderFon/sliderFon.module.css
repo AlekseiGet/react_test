@@ -8,6 +8,7 @@
 .content_box span {
     width: max(50%, 320px);
     padding: 0px 10px;
+    text-shadow: 2px 3px 3px rgba(0, 0, 0, 0.4);
 }
 
 .fbsection1 {
@@ -23,7 +24,6 @@
     flex-direction: column;
     justify-content: center;
     line-height: 3em;
-
     transform: scale(0.94);
     animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
 }

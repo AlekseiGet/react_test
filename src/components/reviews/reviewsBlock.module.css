@@ -14,7 +14,12 @@
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
-.home_reviews_body_item {}
+.home_reviews_body_item {
+    min-width: 25%;
+    height: 300px;
+    border: 2px solid red;
+    border-radius: 15px;
+}
 
 .home_reviews_body_item_video {
     text-align: center;
