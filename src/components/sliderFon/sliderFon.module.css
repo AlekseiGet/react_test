@@ -1,0 +1,39 @@
+.container_fon,
+.cbp_fbscroller,
+.cbp_fbscroller section {
+    min-height: 100vh;
+}
+
+.content_box h2,
+.content_box span {
+    width: max(50%, 320px);
+    padding: 0px 10px;
+}
+
+.fbsection1 {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+.content_box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 3em;
+
+    transform: scale(0.94);
+    animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+}
+
+.content_box h2{
+    font-weight: 600;
+}
+
+.content_box span{
+    margin-top: 40px;
+    font-size: 24px;
+    line-height: 30px;
+}

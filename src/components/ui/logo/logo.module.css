@@ -1,0 +1,51 @@
+.logo{
+    
+    
+}
+
+.stryng_top{
+    position: relative;
+        top: 10px;
+        left: 0px;
+        z-index: 3;
+        
+}
+
+.stryng_top .bar_icon_first{
+    font-size: 55px;
+    font-weight: 600;
+}
+
+.stryng_top .bar_icon_second{
+    position: relative;
+        top: -30px;
+}
+
+.stryng_bottom{
+    position: relative;
+    top: -15px;
+    left: 10px;
+
+}
+
+.bar_icon_first {
+    font-size: 25px;
+    font-weight: 900;
+    font-style: italic;
+    margin-right: 10px;
+    color: #333333be;
+    text-shadow: 3px 3px 10px rgba(104, 29, 215, 0.31);
+}
+
+.bar_icon_second {
+    font-family: 'Caveat';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    font-size: 18px;
+    letter-spacing: 10px;
+    position: relative;
+    top: -10px;
+    color: blue;
+    
+}
