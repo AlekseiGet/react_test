@@ -1,0 +1,16 @@
+
+
+.block_image_item {
+    max-width: 100%;
+    padding: 0px 10px;
+    display: flex;
+    
+}
+
+.block_image_item img {
+    width: 50%;
+    min-width: 280px;
+    height: 50%;
+    object-fit: cover;
+    box-shadow: 6px 6px 42px 0px rgba(34, 60, 80, 0.2);
+}
