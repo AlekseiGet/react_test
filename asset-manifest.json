@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/react_test/static/css/main.42535ae5.css",
-    "main.js": "/react_test/static/js/main.f6c48c21.js",
+    "main.css": "/react_test/static/css/main.d690f055.css",
+    "main.js": "/react_test/static/js/main.b7982a18.js",
+    "static/media/depression.jpg": "/react_test/static/media/depression.9f5b606bb800ecc163c7.jpg",
     "static/media/yoga-light_drb.gif": "/react_test/static/media/yoga-light_drb.9165c248038e97ecba54.gif",
     "static/media/photo_2023-03-15_09-49-51.jpg": "/react_test/static/media/photo_2023-03-15_09-49-51.5b819c647269b8eb016a.jpg",
     "static/media/1675302863_gas-kvas-com-p-yoga-art-risunok-49.jpg": "/react_test/static/media/1675302863_gas-kvas-com-p-yoga-art-risunok-49.4d2033510647b4b61aac.jpg",
     "static/media/photo_2022-08-11_21-21-17.jpg": "/react_test/static/media/photo_2022-08-11_21-21-17.fb0ac104acbae440e403.jpg",
     "static/media/icon.jpg": "/react_test/static/media/icon.a2b210c4166981229c2f.jpg",
+    "static/media/pregnantI.jpg": "/react_test/static/media/pregnantI.2b14dc64db57d269fd1d.jpg",
     "static/media/photo_2022-09-03_07-51-43.jpg": "/react_test/static/media/photo_2022-09-03_07-51-43.81fea7628b4c5d5dea7c.jpg",
+    "static/media/agry.jpg": "/react_test/static/media/agry.84ee48b0dab54cadc57b.jpg",
     "static/media/joga-fon.jpg": "/react_test/static/media/joga-fon.6b571468d51df385bf69.jpg",
     "index.html": "/react_test/index.html",
-    "main.42535ae5.css.map": "/react_test/static/css/main.42535ae5.css.map",
-    "main.f6c48c21.js.map": "/react_test/static/js/main.f6c48c21.js.map"
+    "main.d690f055.css.map": "/react_test/static/css/main.d690f055.css.map",
+    "main.b7982a18.js.map": "/react_test/static/js/main.b7982a18.js.map"
   },
   "entrypoints": [
-    "static/css/main.42535ae5.css",
-    "static/js/main.f6c48c21.js"
+    "static/css/main.d690f055.css",
+    "static/js/main.b7982a18.js"
   ]
 }
