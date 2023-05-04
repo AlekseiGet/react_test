@@ -8,7 +8,7 @@ import MyButtonGreen from '../components/ui/button/MyButtonGreen';
 
 const Contraindications = () => {
     return (
-        <div>
+        <div >
             <SliderFon
                 image={fon}
                 title={`Противопоказания к йоге - кому и когда нельзя заниматься.`}
@@ -43,7 +43,6 @@ const Contraindications = () => {
                 textBtn={'Пройти пробное занятие'}
                 toBtn={'/application'}
             />
-
             <span style={{color:'red', fontSize: "16px"}}>
                Весь текст взят из источника :<a href="https://realyoga.club/articles/contra-indications"> https://realyoga.club/articles/contra-indications</a>
             </span>

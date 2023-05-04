@@ -18,16 +18,18 @@ const FooterBar = () => {
             });        
         }
     btnUp()
-    
-   const toTop= () => {// Медленная прокрутка вверх
+   /*const toTop= () => {// Медленная прокрутка вверх
         let t, s;
         s = document.body.scrollTop || window.pageYOffset;
         t = setInterval(function () { if (s > 0) window.scroll(0, s -= 20); else clearInterval(t) }, 5); 
     }
+    onClick={toTop}
+   */ 
+   
 
     return (
         <div id='contacts' className={cl.conteiner_footer}>
-            <a style={show} className={cl.to_Top} href="#top" onClick={toTop}></a>          
+            <a style={show} className={cl.to_Top} href="#top"></a>          
             <div className={cl.footer_content}>
                 <div className={cl.social_network}>
                     <div >

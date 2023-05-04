@@ -12,7 +12,7 @@
 }
 
 .fbsection1 {
-    background-position: center center;
+    background-position: center 35%;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -24,8 +24,11 @@
     flex-direction: column;
     justify-content: center;
     line-height: 3em;
-    transform: scale(0.94);
+    /*
+        transform: scale(0.94);
     animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+    */
+
 }
 
 .content_box h2{

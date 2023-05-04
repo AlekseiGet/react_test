@@ -111,9 +111,9 @@ h2 {
     margin: auto;
     /* padding: 0px 50px;
     */
-   
-    
+     
 }
+
 
 @keyframes fade-in {
     100% {
@@ -179,5 +179,26 @@ h2 {
         padding: 0px 5px ;
     }    
 }
-        
+    
+
+.alert-enter {
+    opacity: 0;
+    transform: scale(0.9);
+}
+
+.alert-enter-active {
+    opacity: 1;
+    transform: translate(0);
+    transition: opacity 2300ms, transform 2300ms;
+}
+
+.alert-exit {
+    opacity: 1;
+}
+
+.alert-exit-active {
+    opacity: 0;
+    transition: scale(0.9);
+    transition: opacity 2300ms, transform 2300ms;
+}
 
