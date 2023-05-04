@@ -1,6 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import cl from "./sliderGalery.module.css";
 import MyButtonBlue from '../ui/button/MyButtonBlue';
+import slide1 from "../../img/gallery/1.jpg";
+import slide2 from "../../img/gallery/2.jpg";
+import slide3 from "../../img/gallery/3.jpg";
+import slide4 from "../../img/gallery/4.jpg";
+import slide5 from "../../img/gallery/5.jpg";
 import Aos from "aos";
 import "aos/dist/aos.css"; 
 
@@ -22,19 +27,19 @@ const SliderGalery = () => {
                 
                 <div data-aos="fade-up" className={cl.cards}>
                     <label htmlFor="item_1" id="song_1" className={[cl.card, cl.song_1].join(' ')}>
-                        <img src="https://source.unsplash.com/3TLl_97HNJo" />
+                        <img src={slide1} />
                     </label>
                     <label htmlFor='item_2' id="song_2" className={[cl.card, cl.song_2].join(' ')}>
-                        <img src="https://source.unsplash.com/VVCq5tSLQ-U" />
+                        <img src={slide2} />
                     </label>
                     <label htmlFor='item_3' id="song_3" className={[cl.card, cl.song_3].join(' ')}>
-                        <img src="https://source.unsplash.com/p9btBc7HdTE" />
+                        <img src={slide3} />
                     </label>
                     <label htmlFor='item_4' id="song_4" className={[cl.card, cl.song_4].join(' ')}>
-                        <img src="https://source.unsplash.com/VVCq5tSLQ-U" />
+                        <img src={slide4} />
                     </label>
                     <label htmlFor='item_5' id="song_5" className={[cl.card, cl.song_5].join(' ')}>
-                        <img src="https://source.unsplash.com/3TLl_97HNJo" />
+                        <img src={slide5} />
                     </label>
                 </div>
                 <div data-aos="fade-up" className={cl.slader_container_button}>
