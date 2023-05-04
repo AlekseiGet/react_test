@@ -1,25 +1,30 @@
 {
   "files": {
     "main.css": "/react_test/static/css/main.d690f055.css",
-    "main.js": "/react_test/static/js/main.b89a3104.js",
+    "main.js": "/react_test/static/js/main.8f978f9c.js",
     "static/media/depression.jpg": "/react_test/static/media/depression.9f5b606bb800ecc163c7.jpg",
     "static/media/yoga-light_drb.gif": "/react_test/static/media/yoga-light_drb.9165c248038e97ecba54.gif",
+    "static/media/1.jpg": "/react_test/static/media/1.6b2d053acc33fa8bed6f.jpg",
     "static/media/photo_2023-03-15_09-49-51.jpg": "/react_test/static/media/photo_2023-03-15_09-49-51.5b819c647269b8eb016a.jpg",
+    "static/media/2.jpg": "/react_test/static/media/2.a9f02e3ce37182916e5c.jpg",
     "static/media/1675302863_gas-kvas-com-p-yoga-art-risunok-49.jpg": "/react_test/static/media/1675302863_gas-kvas-com-p-yoga-art-risunok-49.4d2033510647b4b61aac.jpg",
     "static/media/photo_2022-08-11_21-21-17.jpg": "/react_test/static/media/photo_2022-08-11_21-21-17.fb0ac104acbae440e403.jpg",
+    "static/media/5.jpg": "/react_test/static/media/5.f7f2543e53692153bb08.jpg",
     "static/media/icon.jpg": "/react_test/static/media/icon.a2b210c4166981229c2f.jpg",
     "static/media/pregnantI.jpg": "/react_test/static/media/pregnantI.2b14dc64db57d269fd1d.jpg",
     "static/media/photo_2022-09-03_07-51-43.jpg": "/react_test/static/media/photo_2022-09-03_07-51-43.81fea7628b4c5d5dea7c.jpg",
     "static/media/agry.jpg": "/react_test/static/media/agry.84ee48b0dab54cadc57b.jpg",
     "static/media/joga-fon.jpg": "/react_test/static/media/joga-fon.6b571468d51df385bf69.jpg",
+    "static/media/4.jpg": "/react_test/static/media/4.3db4cd1ae037a70d869e.jpg",
     "static/media/EvolutionYoga.jpg": "/react_test/static/media/EvolutionYoga.f11530d5168415f54e0e.jpg",
     "static/media/disease.jpg": "/react_test/static/media/disease.8f3fb85c24eb5b53a15b.jpg",
+    "static/media/3.jpg": "/react_test/static/media/3.ca05c04cf7799ab0fa77.jpg",
     "index.html": "/react_test/index.html",
     "main.d690f055.css.map": "/react_test/static/css/main.d690f055.css.map",
-    "main.b89a3104.js.map": "/react_test/static/js/main.b89a3104.js.map"
+    "main.8f978f9c.js.map": "/react_test/static/js/main.8f978f9c.js.map"
   },
   "entrypoints": [
     "static/css/main.d690f055.css",
-    "static/js/main.b89a3104.js"
+    "static/js/main.8f978f9c.js"
   ]
 }
