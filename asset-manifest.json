@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_test/static/css/main.d690f055.css",
-    "main.js": "/react_test/static/js/main.5109e959.js",
+    "main.css": "/react_test/static/css/main.8ea42025.css",
+    "main.js": "/react_test/static/js/main.a9af8e5f.js",
     "static/media/depression.jpg": "/react_test/static/media/depression.9f5b606bb800ecc163c7.jpg",
     "static/media/yoga-light_drb.gif": "/react_test/static/media/yoga-light_drb.9165c248038e97ecba54.gif",
     "static/media/1.jpg": "/react_test/static/media/1.6b2d053acc33fa8bed6f.jpg",
@@ -15,16 +15,17 @@
     "static/media/photo_2022-09-03_07-51-43.jpg": "/react_test/static/media/photo_2022-09-03_07-51-43.81fea7628b4c5d5dea7c.jpg",
     "static/media/agry.jpg": "/react_test/static/media/agry.84ee48b0dab54cadc57b.jpg",
     "static/media/joga-fon.jpg": "/react_test/static/media/joga-fon.6b571468d51df385bf69.jpg",
+    "static/media/photo_2023-03-08_07-48-48.jpg": "/react_test/static/media/photo_2023-03-08_07-48-48.63049b549c4788f3f265.jpg",
     "static/media/4.jpg": "/react_test/static/media/4.3db4cd1ae037a70d869e.jpg",
     "static/media/EvolutionYoga.jpg": "/react_test/static/media/EvolutionYoga.f11530d5168415f54e0e.jpg",
     "static/media/disease.jpg": "/react_test/static/media/disease.8f3fb85c24eb5b53a15b.jpg",
     "static/media/3.jpg": "/react_test/static/media/3.ca05c04cf7799ab0fa77.jpg",
     "index.html": "/react_test/index.html",
-    "main.d690f055.css.map": "/react_test/static/css/main.d690f055.css.map",
-    "main.5109e959.js.map": "/react_test/static/js/main.5109e959.js.map"
+    "main.8ea42025.css.map": "/react_test/static/css/main.8ea42025.css.map",
+    "main.a9af8e5f.js.map": "/react_test/static/js/main.a9af8e5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d690f055.css",
-    "static/js/main.5109e959.js"
+    "static/css/main.8ea42025.css",
+    "static/js/main.a9af8e5f.js"
   ]
 }
