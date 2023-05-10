@@ -19,21 +19,23 @@ const TopBar = () => {
 
 
     return (
-        <div className= {cl.conteiner__tool} >
-            <div className={cl.tool_bar}>
-                <div className={cl.bar_icon}>
-                  <Logo/>
-                </div> 
-                <div onClick={barActive} className={burgerClass}></div>           
-                <div className={menuClass}> 
-                        <Link to="/home"> Главная</Link>                     
-                        <Link to="/galery">Галерея</Link>
-                        <Link to="/about">О школе</Link>
-                        <Link to="/application">Бонус</Link>
-                        <a href='#contacts'>Контакты</a>                                          
-                </div>
-            </div>
+      <div className={cl.conteiner__tool}>
+        <div className={cl.tool_bar}>
+          <div className={cl.bar_icon}>
+            <Logo />
+          </div>
+          <div onClick={barActive} className={burgerClass}></div>
+          <div  onClick={barActive} className={menuClass}>
+            <Link onClick={barActive} to="/home"> Главная</Link>
+            <Link onClick={barActive} to="/galery">Галерея</Link>
+            <Link onClick={barActive} to="/about">О школе</Link>
+            <Link  to="/application">Бонус</Link>
+            <a onClick={barActive} href="#contacts">
+              Контакты
+            </a>
+          </div>
         </div>
+      </div>
     );
 };
 

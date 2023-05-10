@@ -1,7 +1,10 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import FooterBar from '../components/footer/FooterBar';
 
 const Application = () => {
+    useEffect(() => {
+      document.documentElement.scrollIntoView(true);
+    }, []);
     return (
         <div>
             <h1>Заявка на ...</h1>

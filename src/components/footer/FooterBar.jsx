@@ -80,8 +80,9 @@ const FooterBar = () => {
                     </ul>
                 </div>
             </div>
-
+         <div className={cl.footer_bottom}>
             <span className={cl.warning_text}>Неправомерное использование материалов является административным правонарушением. Копирование  разрешается только после  разрешения автора.</span>
+         </div>  
         </div>
     );
 };

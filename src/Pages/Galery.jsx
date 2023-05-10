@@ -1,17 +1,24 @@
-import React, { useState } from 'react';
+import React, { useContext, useEffect, useState } from 'react';
 import cl from "../css/galery.module.css"
 import SliderGalery from '../components/sladerGalery/SliderGalery';
+import BlocKImage from '../components/ui/blockImage/BlocKImage';
+import { GaleryImage } from '../context/Context';
+
 
 
 const Galery = () => {
-    
 
+  const ItemMass = useContext(GaleryImage)
+    
+useEffect(() => {
+  document.documentElement.scrollIntoView(true);
+}, []);
     return (
-        <div >
-          <h1>Галерея</h1>
-        <h1>Страница находится в разработке</h1>
-           <SliderGalery/>
-        </div>
+      <div>
+        <h1>Галерея</h1>
+        <SliderGalery />
+        <BlocKImage image={ItemMass} jusCont={"center"} />
+      </div>
     );
 };
 

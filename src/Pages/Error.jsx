@@ -1,7 +1,11 @@
-import React from 'react';
-import FooterBar from '../components/footer/FooterBar';
+import React, { useEffect } from 'react';
+
 
 const Error = () => {
+
+    useEffect(() => {
+      document.documentElement.scrollIntoView(true);
+    }, []);
     return (
         <div>
             <h1>Ошибка</h1>

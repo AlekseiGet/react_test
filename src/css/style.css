@@ -77,6 +77,7 @@ ul li {
   
 }
 
+/*
 h1,
 h2,
 h3,
@@ -93,9 +94,23 @@ h1 {
 }
 
 h2 {
-    font-size: 2.1em;
+    font-size: 1.8em;
+}
+h3{
+    font-size: 1.5em;
+}
+*/
+
+
+
+ul{
+    line-height: 2em;
+    font-weight: 500;
 }
 
+li{
+    padding-left: 20px;
+}
 
 
 .wrapper{
@@ -114,6 +129,12 @@ h2 {
      
 }
 
+.heading{
+    max-width: 800px;
+    margin: 30px auto;
+    text-align: center;
+}
+
 
 @keyframes fade-in {
     100% {
@@ -128,6 +149,8 @@ h2 {
 
     }
 }
+
+
 
 .pops_up_box{
     transform: scale(1.02);
@@ -169,6 +192,8 @@ h2 {
     filter: blur(4px);
     animation: fade-in 0.8s 1.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
 }
+
+
 @media (max-width: 1446px) {
     .content {
         padding: 0px 15px;

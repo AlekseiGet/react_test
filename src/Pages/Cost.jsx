@@ -1,6 +1,10 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 const Cost = () => {
+
+    useEffect(() => {
+      document.documentElement.scrollIntoView(true);
+    }, []);
     return (
         <div>
             <h1>Стоимость курсов</h1>

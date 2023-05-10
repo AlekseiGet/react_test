@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import { publicRoutes } from './router';
 import TopBar from '../components/bar/TopBar';
 import FooterBar from '../components/footer/FooterBar';
 
 const AppRouter = () => {
+
+  
     return (
         <div className='wrapper'>
             <TopBar />           
