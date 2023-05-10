@@ -1,8 +1,15 @@
 import React, { useEffect, useRef, useState } from 'react';
+import Aos from "aos";
+import "aos/dist/aos.css";
 import cl from './blockImage.module.css'
 
 const BlocKImage = (props) => {
-    const [active, setActive] = useState('')
+    useEffect(() => {
+        Aos.init({ duration: 1500 });
+    }, [])
+
+
+    /*    const [active, setActive] = useState('')
     const firstEllement = useRef()
     const observer = useRef()
 
@@ -16,15 +23,14 @@ const BlocKImage = (props) => {
         observer.current.observe(firstEllement.current)},[])
         
 
-    useEffect(() => {
-        console.log(active);
-    }, [active])
+    ref={firstEllement}
+    */ 
 
     return (
         
-        <div ref={firstEllement} style={{ justifyContent: props.jusCont }} className={[cl.block_image_item, active ].join(" ")}>
+        <div  style={{ justifyContent: props.jusCont }} className={cl.block_image_item }>
             {props.image.map(element=>
-                <img key={element} src={element} alt="Фото" />
+                <img data-aos="fade-up" key={element} src={element} alt="Фото" />
                )
              }          
         </div>
