@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_test/static/css/main.8ab70189.css",
-    "main.js": "/react_test/static/js/main.bf4d4f17.js",
+    "main.css": "/react_test/static/css/main.ca5743d3.css",
+    "main.js": "/react_test/static/js/main.22e9ed20.js",
     "static/media/depression.jpg": "/react_test/static/media/depression.9f5b606bb800ecc163c7.jpg",
     "static/media/yoga-light_drb.gif": "/react_test/static/media/yoga-light_drb.9165c248038e97ecba54.gif",
     "static/media/photo_2022-11-01_20-21-58.jpg": "/react_test/static/media/photo_2022-11-01_20-21-58.f2fcedfa26de252200fe.jpg",
@@ -30,6 +30,7 @@
     "static/media/photo_2022-08-16_09-20-58.jpg": "/react_test/static/media/photo_2022-08-16_09-20-58.dfcaecb2c9831dfca969.jpg",
     "static/media/photo_2022-08-22_13-06-10.jpg": "/react_test/static/media/photo_2022-08-22_13-06-10.3e43a920b89e58f41c70.jpg",
     "static/media/photo_2022-06-12_17-51-04.jpg": "/react_test/static/media/photo_2022-06-12_17-51-04.655a6c00037a8b35ec5c.jpg",
+    "static/media/error.jpg": "/react_test/static/media/error.816aab739e9c7d37c6a9.jpg",
     "static/media/photo_2023-04-21_08-26-16.jpg": "/react_test/static/media/photo_2023-04-21_08-26-16.ca40370a049d6b25e63f.jpg",
     "static/media/photo_2022-12-05_10-07-56.jpg": "/react_test/static/media/photo_2022-12-05_10-07-56.e31ff970cfd1fa1e07be.jpg",
     "static/media/1675302863_gas-kvas-com-p-yoga-art-risunok-49.jpg": "/react_test/static/media/1675302863_gas-kvas-com-p-yoga-art-risunok-49.4d2033510647b4b61aac.jpg",
@@ -75,11 +76,11 @@
     "static/media/3.jpg": "/react_test/static/media/3.ca05c04cf7799ab0fa77.jpg",
     "static/media/photo_2022-06-11_16-11-52.jpg": "/react_test/static/media/photo_2022-06-11_16-11-52.a53098934097e824e2f6.jpg",
     "index.html": "/react_test/index.html",
-    "main.8ab70189.css.map": "/react_test/static/css/main.8ab70189.css.map",
-    "main.bf4d4f17.js.map": "/react_test/static/js/main.bf4d4f17.js.map"
+    "main.ca5743d3.css.map": "/react_test/static/css/main.ca5743d3.css.map",
+    "main.22e9ed20.js.map": "/react_test/static/js/main.22e9ed20.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ab70189.css",
-    "static/js/main.bf4d4f17.js"
+    "static/css/main.ca5743d3.css",
+    "static/js/main.22e9ed20.js"
   ]
 }
