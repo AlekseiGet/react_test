@@ -25,11 +25,19 @@ const TopBar = () => {
             <Logo />
           </div>
           <div onClick={barActive} className={burgerClass}></div>
-          <div  onClick={barActive} className={menuClass}>
-            <Link onClick={barActive} to="/home"> Главная</Link>
-            <Link onClick={barActive} to="/galery">Галерея</Link>
-            <Link onClick={barActive} to="/about">О школе</Link>
-            <Link  to="/application">Бонус</Link>
+          <div onClick={barActive} className={menuClass}>
+            <Link onClick={barActive} to="/home">
+              Главная
+            </Link>
+            <Link onClick={barActive} to="/galery">
+              Галерея
+            </Link>
+            <Link onClick={barActive} to="/about">
+              О школе
+            </Link>
+            <Link onClick={barActive} to="/application">
+              Занятия
+            </Link>
             <a onClick={barActive} href="#contacts">
               Контакты
             </a>

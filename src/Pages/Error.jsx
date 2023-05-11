@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
-
+import errrorImage from '../img/error.jpg'
+import SliderFon from '../components/sliderFon/SliderFon';
 
 const Error = () => {
 
@@ -7,10 +8,11 @@ const Error = () => {
       document.documentElement.scrollIntoView(true);
     }, []);
     return (
-        <div>
-            <h1>Ошибка</h1>
-            <h1>Страница находится в разработке</h1>
-        </div>
+      <div>
+        <SliderFon
+          image={errrorImage}
+        />
+      </div>
     );
 };
 
