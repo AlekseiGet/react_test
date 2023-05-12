@@ -50,9 +50,7 @@ const Home = () => {
           position={"center"}
         />
 
-        <SliderGalery
-          textBtn={"Увидеть больше"}
-          toBtn={"/galery"} />
+        <SliderGalery textBtn={"Увидеть больше"} toBtn={"/galery"} />
 
         <Block
           title={"Обучаясь с нами"}
@@ -81,7 +79,7 @@ const Home = () => {
             1: "",
           }}
           textBtn={"Оставить заявку"}
-          toBtn={"/application"}
+          toBtn={"/cost"}
         />
       </div>
     );

@@ -2,12 +2,11 @@
 .conteiner_box {
     width: 100%;
     padding: 50px 0px;
-    background: white;
-   
+    text-align: center;
 }
 
 .conteiner_box_context{
-    text-align: center;
+    
 }
 
 .conteiner_box h2{ 

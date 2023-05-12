@@ -1,7 +1,8 @@
-.container_fon,
 .cbp_fbscroller,
 .cbp_fbscroller section {
+
     min-height: 100vh;
+    border: 1px solid red;
 }
 
 .content_box h2,
@@ -12,14 +13,16 @@
 }
 
 .fbsection1 {
+    height: 100%;
     background-position: center 35%;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    color: white;
+    color: white;  
 }
 
 .content_box{
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -28,7 +31,7 @@
         transform: scale(0.94);
     animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
     */
-
+border: 1px solid rgb(23, 209, 79);
 }
 
 .content_box h2{
@@ -39,4 +42,40 @@
     margin-top: 40px;
     font-size: 24px;
     line-height: 30px;
+}
+
+
+.cost_box{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.cost_holder{
+    width: 100%;
+    min-width: 280px;
+    flex: 1 0 20%;
+    margin: 10px;
+    height: 400px;
+    border: 1px solid white;
+    display: flex;
+  
+    flex-wrap: wrap;
+}
+
+.cost_holder_title{
+   
+    flex: 1 0 280px;
+    height: 50%;
+    min-height: 200px;
+    background: #b41d1d;
+     border: 1px solid white;
+}
+
+.cost_holder_body{
+   
+    flex: 1 0 280px;
+    height: 50%;
+    min-height: 200px;
+    background: #07853f;
+     border: 1px solid white;
 }
