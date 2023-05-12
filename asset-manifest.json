@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_test/static/css/main.3a699af0.css",
-    "main.js": "/react_test/static/js/main.2a2935ed.js",
+    "main.css": "/react_test/static/css/main.75e69e2a.css",
+    "main.js": "/react_test/static/js/main.492b59b4.js",
     "static/media/relaks_yoga.gif": "/react_test/static/media/relaks_yoga.326a6256c8bfe4229021.gif",
     "static/media/depression.jpg": "/react_test/static/media/depression.9f5b606bb800ecc163c7.jpg",
     "static/media/yoga-light_drb.gif": "/react_test/static/media/yoga-light_drb.9165c248038e97ecba54.gif",
@@ -77,11 +77,11 @@
     "static/media/3.jpg": "/react_test/static/media/3.ca05c04cf7799ab0fa77.jpg",
     "static/media/photo_2022-06-11_16-11-52.jpg": "/react_test/static/media/photo_2022-06-11_16-11-52.a53098934097e824e2f6.jpg",
     "index.html": "/react_test/index.html",
-    "main.3a699af0.css.map": "/react_test/static/css/main.3a699af0.css.map",
-    "main.2a2935ed.js.map": "/react_test/static/js/main.2a2935ed.js.map"
+    "main.75e69e2a.css.map": "/react_test/static/css/main.75e69e2a.css.map",
+    "main.492b59b4.js.map": "/react_test/static/js/main.492b59b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a699af0.css",
-    "static/js/main.2a2935ed.js"
+    "static/css/main.75e69e2a.css",
+    "static/js/main.492b59b4.js"
   ]
 }
